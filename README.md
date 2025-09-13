@@ -1,0 +1,1 @@
+initial steps of javascript
